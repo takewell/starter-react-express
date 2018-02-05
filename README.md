@@ -21,3 +21,4 @@ webpack で JavaScript をトランスパイル
 ブラウザで```http://localhost:8080```にアクセス
 
 Hello Express と Hello React が表示されれば成功。
+このままの状態で Heloku にデプロイ可能(※2018/2月時点)
