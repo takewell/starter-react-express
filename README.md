@@ -2,7 +2,7 @@
 
 Express と React でプロジェクトを始める際のスターターターテンプレート。
 
-# Useage
+# Usage
 
 ```$ git@github.com:takewell/starter-react-express.git```
 
