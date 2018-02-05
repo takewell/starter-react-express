@@ -1,0 +1,9 @@
+{
+  "name": "starter-react-express",
+  "description": "",
+  "logo": "",
+  "keywords": [
+    "node"
+  ],
+  "image": "heroku/nodejs"
+}
