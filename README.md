@@ -4,19 +4,19 @@ Express と React でプロジェクトを始める際のスターターター�
 
 # Useage
 
-$ git@github.com:takewell/starter-react-express.git
+```$ git@github.com:takewell/starter-react-express.git```
 
 Node.js がインストール済みであれば
 
-$ npm link
+```$ npm link```
 
 webpack で JavaScript をトランスパイル
 
-$ npm run build
+```$ npm run build```
 
 8080 で起動させたい場合
 
-$ PORT=8080 npm start
+```$ PORT=8080 npm start```
 
 ブラウザで```http://localhost:8090```にアクセス
 
