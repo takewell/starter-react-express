@@ -18,6 +18,6 @@ webpack で JavaScript をトランスパイル
 
 ```$ PORT=8080 npm start```
 
-ブラウザで```http://localhost:8090```にアクセス
+ブラウザで```http://localhost:8080```にアクセス
 
 Hello Express と Hello React が表示されれば成功。
